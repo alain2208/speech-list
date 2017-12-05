@@ -20,7 +20,7 @@ A good short page about Mel bank & Mel frequencies
 
 ## Voice repo
 
-###Mozilla Common  Voice Project
+### Mozilla Common  Voice Project
 The new (Dec 2017) repo of open source voice is Mozilla voice. They intend to ask for voice from 
 around the world. You can participate by giving your voice and some info like your age gender or location
 Open for the moment to English language.
@@ -30,14 +30,18 @@ Today aroung 250 Hours splits into more than 400 000 audio files available for d
 
 [Mozilla Common  Voice Project](https://voice.mozilla.org/)
 
-###Please call Stella
+### Please call Stella
 A repo with only one paragraph ! said by thousands of people around the world with their gender and location and mother language.
 It starts by Please call Stella. Ask her to bring these things with her from the store:..
 inclduing phonetics.  Don't Forget to call her!
 [call Stella](http://accent.gmu.edu/)
 
 
-## voice feature extraction
+## Voice feature extraction tools
+
+I'm a bad programmer and started to learn Python, finding quite easy to learn. 
+
+So all links below maybe Python related
 
 Getting meaninful data from voice is a standard task in speech/sound analysis. Some good pages give simple or more complex tools or how to create those metadata
  
