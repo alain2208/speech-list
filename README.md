@@ -20,3 +20,14 @@ Today aroung 250 Hours splits into more than 400 000 audio files available for d
 
 [Mozilla Common  Voice Project](https://voice.mozilla.org/)
 
+
+
+
+## voice feature extraction
+
+Getting meaninful data from voice is a standard task in speech/sound analysis. Some good pages give simple or more complex tools or how to create those metadata
+ 
+- Speechpy
+some quite simple tools in Python to extract melbanks, mfcc and others from audio samples.
+Nice job from Amirsina Torfi
+[Speechpy](https://github.com/astorfi/speechpy) 
