@@ -8,6 +8,13 @@ I intend to present thnigs around voice representation. Using all type of algo
 
 **the first item**
 
+## Some Theory
+Some theory always needed ..but not too much
+Hereere some good pages about sound features extraction.
+[Melbank and co](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)
+
+
+
 ## Voice repo
 
 ###Mozilla Common  Voice Project
@@ -20,7 +27,11 @@ Today aroung 250 Hours splits into more than 400 000 audio files available for d
 
 [Mozilla Common  Voice Project](https://voice.mozilla.org/)
 
-
+###Please call Stella
+A repo with only one paragraph ! said by thousands of people around the world with their gender and location and mother language.
+It starts by Please call Stella. Ask her to bring these things with her from the store:..
+inclduing phonetics.  Don't Forget to call her!
+[call Stella](http://accent.gmu.edu/)
 
 
 ## voice feature extraction
