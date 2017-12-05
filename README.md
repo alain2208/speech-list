@@ -11,6 +11,9 @@ I intend to present thnigs around voice representation. Using all type of algo
 ## Some Theory
 Some theory always needed ..but not too much
 Hereere some good pages about sound features extraction.
+
+A good short page about Mel bank & Mel frequencies
+
 [Melbank and co](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)
 
 
