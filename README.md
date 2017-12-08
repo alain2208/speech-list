@@ -27,6 +27,8 @@ Open for the moment to English language.
 You can also vote to validate speeches by others. 
 
 Today aroung 250 Hours splits into more than 400 000 audio files available for download
+It includes around 400 000 Mp3 files. 
+a lot are completley taged with gender age origin but more than 100 000 are not tagged at all today.
 
 [Mozilla Common  Voice Project](https://voice.mozilla.org/)
 
