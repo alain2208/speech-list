@@ -60,7 +60,5 @@ Nice job from Amirsina Torfi
 you find time a nice tool and can't find it again. i did it too much time, so why not put a list here
 
 - tensorflow graphviz
-same as tensorboard without tensorboard. Could be long if graph is complex. generate a nice pdf
-
-[tf graph viz](https://github.com/akimach/tfgraphviz)
+same as tensorboard without tensorboard. Could be long if graph is complex. generate a nice pdf [tf graph viz](https://github.com/akimach/tfgraphviz)
 
