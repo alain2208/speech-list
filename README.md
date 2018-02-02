@@ -28,6 +28,8 @@ You can also vote to validate speeches by others.
 
 Today aroung 250 Hours splits into more than 400 000 Mp3 audio files available for download.
 
+some are 'invalid' they had not been tagged as enough good
+
 A lot are completley tagged with gender, age, origin but more than 100 000 are not tagged at all today.
 
 [Mozilla Common  Voice Project](https://voice.mozilla.org/)
@@ -51,3 +53,13 @@ Getting meaninful data from voice is a standard task in speech/sound analysis. S
 some quite simple tools in Python to extract melbanks, mfcc and others from audio samples.
 Nice job from Amirsina Torfi
 [Speechpy](https://github.com/astorfi/speechpy) 
+
+
+## Nice tools to know
+
+you find time a nice tool and can't find it again. i did it too much time, so why not put a list here
+
+- tensorflow graphviz
+same as tensorboard without tensorboard
+[tf graph viz](https://github.com/akimach/tfgraphviz)
+
